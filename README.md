@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economic History of Perú
 - 🌱 I’m currently learning Economy and History
 - 💞️ I’m looking to collaborate on researches
-- 📫 How to reach me ...
+- 📫 How to reach me: send an email to victor2manuel24@gmail.com
 
 <!---
 victor2manuel24/victor2manuel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
